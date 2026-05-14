@@ -6,7 +6,7 @@ Análisis de rendimiento ofensivo de jugadores de las 5 grandes ligas europeas (
 
 ## Demo
 
-![Dashboard preview](assets/dashboard_preview.png)
+![Dashboard preview](assets/dashboard_preview.PNG)
 
 ---
 
